@@ -1,0 +1,1 @@
+const jwtHelper = require(`../dist/`);
